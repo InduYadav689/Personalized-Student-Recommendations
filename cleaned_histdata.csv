@@ -1,0 +1,16 @@
+id,quiz_id,user_id,submitted_at,score,accuracy,correct_answers,incorrect_answers,quiz_title,quiz_topic,questions_count
+336497,51,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-17T15:30:18.027+05:30,108,90.0,27,3,Human Physiology (15),Body Fluids and Circulation,100
+336448,6,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-17T15:17:44.042+05:30,92,100.0,23,0,Human Physiology PYQ,Body Fluids and Circulation ,23
+333330,51,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-16T20:13:19.682+05:30,116,96.0,29,1,Human Physiology (15),Body Fluids and Circulation,100
+333242,6,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-16T20:00:11.562+05:30,36,90.0,9,1,Human Physiology PYQ,Body Fluids and Circulation ,23
+329504,51,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-15T20:34:39.462+05:30,36,31.0,9,20,Human Physiology (15),Body Fluids and Circulation,100
+328488,57,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-15T15:57:12.791+05:30,40,38.0,10,16,Reproduction,Human Reproduction,89
+328414,6,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-15T15:36:46.410+05:30,36,50.0,9,9,Human Physiology PYQ,Body Fluids and Circulation ,23
+321514,20,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-13T16:10:03.743+05:30,12,30.0,3,7,PRINCIPLES OF INHERITANCE AND VARIATION PYQ,principles of inheritance and variation ,59
+320963,24,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-13T13:28:12.784+05:30,76,100.0,19,0,MICROBES IN HUMAN WELFARE  PYQ,microbes in human welfare,20
+320916,18,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-13T13:12:40.687+05:30,40,100.0,10,0,REPRODUCTIVE HEALTH PYQ,reproductive health ,22
+315179,25,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-11T21:20:08.641+05:30,112,93.0,28,2,HUMAN HEALTH AND DISEASE PYQ,human health and disease ,41
+315081,18,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2025-01-11T21:03:43.251+05:30,64,84.0,16,3,REPRODUCTIVE HEALTH PYQ,reproductive health ,22
+257774,58,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2024-12-28T22:58:52.969+05:30,52,43.0,13,17,Reproduction,Reproductive Health,55
+195808,50,YcDFSO4ZukTJnnFMgRNVwZTE4j42,2024-12-11T20:36:44.822+05:30,24,66.0,6,3,Human Physiology (14),Respiration and Gas Exchange,100
+336566,43,7ZXdz3zHuNcdg9agb5YpaOGLQqw2,2025-01-17T15:51:29.859+05:30,32,80.0,8,2,Structural Organisation in Animals and Plants (7),Structural Organisation in Animals,128
